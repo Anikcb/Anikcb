@@ -29,7 +29,7 @@
 </br>
 </br>
 <h1></h1>
-<a href="https://anikcb.github.io/"> <p align="right"><img height=85px src="https://github.com/Anikcb/Anikcb/blob/main/word-portfolio-on-abstract-colorful-260nw-1917315023.jpg?raw=true" /></p></a>
+<a href="https://anikcb.github.io/"> <p align="right"><img height=85px src="https://github.com/Anikcb/Anikcb/blob/main/portfolio.jpg?raw=true" /></p></a>
 
 
 
