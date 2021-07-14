@@ -17,8 +17,8 @@
 
 <p align="left"> <a href="https://twitter.com/anik33122906" target="blank"><img src="https://img.shields.io/twitter/follow/anik33122906?logo=twitter&style=for-the-badge" alt="anik33122906" /></a> </p>
 
-- 🌱 I’m currently learning **python,django**
-- 📱  I am currently working on a **App**
+- 🌱 I’m currently learning **Machine Learning**
+- 📱  I am currently working on an **App**
 - 🔥  Future goal **Candidate Master**
 - 💬 Ask me about **Programming**
 - 📝 I write articles on [brainstation](https://brainstation10.blogspot.com/)
