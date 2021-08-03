@@ -22,7 +22,7 @@
 - 🔥  Future goal **Candidate Master**
 - 💬 Ask me about **Programming**
 - 📝 I write articles on [brainstation](https://brainstation10.blogspot.com/)
-- 📷 I make videos on [youtube](https://www.youtube.com/channel/UCNPdDtFIJ-W4rEKi_-kNb1g)
+- 📷 I make videos on [youtube](https://www.youtube.com/channel/UCJcScWVF3x1CLEg-XpvCXVw)
 
 - ⚡ Fun fact **Love to learn , Think , Implement**
 
@@ -43,8 +43,8 @@
 <a href="https://app.rocketseat.com.br/me/anik-chakraborty-07956" rel="nofollow"><img src="https://camo.githubusercontent.com/9594effbc8e8434f282fe9cdc709052fd1cb01298e340ad9b89b6e91989be64a/68747470733a2f2f696d672e69636f6e73382e636f6d2f636c6f7564732f39302f3461393065322f726f636b65742e706e67" data-canonical-src="https://img.icons8.com/clouds/90/4a90e2/rocket.png" style="max-width:100%;"></a>
 <a href="https://t.me/anik01010" rel="nofollow"><img src="https://camo.githubusercontent.com/a509253c13e0b0b0a4760c68cd8a4554c500fd8c71f917efb2b1c9cdd8496946/68747470733a2f2f696d672e69636f6e73382e636f6d2f636c6f7564732f39302f3030303030302f74656c656772616d2d6170702e706e67" data-canonical-src="https://img.icons8.com/clouds/90/000000/telegram-app.png" style="max-width:100%;"></a>
 <a href="https://api.whatsapp.com/send?phone=01761951604" rel="nofollow"><img src="https://camo.githubusercontent.com/175e706a636868b0dfdea77549b7b337238bc54cd4bfa0286fc4afd33d13a437/68747470733a2f2f696d672e69636f6e73382e636f6d2f636c6f7564732f39302f3030303030302f77686174736170702e706e67" data-canonical-src="https://img.icons8.com/clouds/90/000000/whatsapp.png" style="max-width:100%;"></a>
-<a href="https://www.facebook.com/profile.php?id=100030484703065" target="blank"><img src="https://i.pinimg.com/originals/d4/1c/c6/d41cc6d360aeb4d4ea3f61a6c894aaa8.png" alt="https://www.facebook.com/profile.php?id=100030484703065" height="95"/></a>
-<a href="https://www.pinterest.com/anikchakraborty562/_saved/" target="blank"><img src="https://img.icons8.com/clouds/2x/pinterest.png" alt="https://www.facebook.com/profile.php?id=100030484703065" height="95"/></a>
+<a href="https://www.youtube.com/channel/UCJcScWVF3x1CLEg-XpvCXVw" target="blank"><img src="https://i.pinimg.com/originals/d4/1c/c6/d41cc6d360aeb4d4ea3f61a6c894aaa8.png" alt="https://www.facebook.com/profile.php?id=100030484703065" height="95"/></a>
+<a href="https://www.pinterest.com/anikchakraborty562/_saved/" target="blank"><img src="https://img.icons8.com/clouds/2x/pinterest.png" alt="https://www.youtube.com/channel/UCJcScWVF3x1CLEg-XpvCXVw" height="95"/></a>
 <a href="https://www.quora.com/profile/Anik-Chakraborty-47" target="blank"><img src="https://img.icons8.com/clouds/2x/quora.png" alt="https://www.facebook.com/profile.php?id=100030484703065" height="95"/></a>
 <a href="https://stackoverflow.com/users/16171263/anik-chakraborty?tab=profile" target="blank"><img src="https://i.pinimg.com/originals/82/c0/4f/82c04f311cbdae05b5c729b9ff6ab588.png" height="95"/></a>
 
