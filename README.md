@@ -65,7 +65,7 @@
     <a href="https://www.topcoder.com/members/Anikchakraborty"><img alt="Custom badge" src="https://img.shields.io/badge/Top%20Coder-10-blue" height="30px" ></a>
     <a href="https://www.urionlinejudge.com.br/judge/en/profile/251274"><img alt="Custom badge" src="https://img.shields.io/badge/URI-47-lightgrey" height="30px" ></a>
     <a href="https://leetcode.com/Dark_Rider_00/"><img alt="Custom badge" src="https://img.shields.io/badge/LeetCode-10-red" height="30px" ></a>
- <a href="https://codeforces.com/profile/_Dark_Rider_"><img alt="Custom badge" src="https://img.shields.io/badge/Codeforces-1747-blue" height="30px" ></a>
+ <a href="https://codeforces.com/profile/_Dark_Rider_"><img alt="Custom badge" src="https://img.shields.io/badge/Codeforces-1755-blue" height="30px" ></a>
  <a href="https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=15"><img alt="Custom badge" src="https://img.shields.io/badge/UVA-164-blue" height="30px" ></a>
     <a href="https://toph.co/u/ihavedone"><img alt="Custom badge" src="https://img.shields.io/badge/Toph-125-yellow" height="30px" ></a>
     <a href="https://www.e-olymp.com/en/users/DarkRider"><img alt="Custom badge" src="https://img.shields.io/badge/e--olymp-11-red" height="30px" ></a>
