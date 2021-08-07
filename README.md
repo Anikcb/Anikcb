@@ -29,7 +29,7 @@
 </br>
 </br>
 <h1></h1>
-<a href="https://anikcb.github.io/"> <p align="right"><img height=200px src="https://github.com/Anikcb/Anikcb/blob/main/portfolio-banner.png?raw=true" /></p></a>
+<a href="https://anikcb.github.io/"> <p align="right"><img src="https://github.com/Anikcb/Anikcb/blob/main/port-1.jpg?raw=true" /></p></a>
 
 
 
