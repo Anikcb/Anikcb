@@ -142,6 +142,9 @@
 <img src="https://raw.githubusercontent.com/Anikcb/Anikcb/3255a1b374b698bf842f5f7788bd22cdc9046166/profile_data/github-user-contribution.svg" alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑" style="max-width:100%;">
 
 
+<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anikcb&amp;theme=solarized_dark" style="max-width:100%;"> -->
+
+
 <p align="center">
 <br><br>
   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/9e342bd35a241b71d3e030508048a7afcd2152475a3def94e59473ea67d68ca8/68747470733a2f2f6c6974746c652e6b796c6572636f6e7761792e636f6d2f696d616765732f676f6c616e672d776861742e676966"><img src="https://camo.githubusercontent.com/9e342bd35a241b71d3e030508048a7afcd2152475a3def94e59473ea67d68ca8/68747470733a2f2f6c6974746c652e6b796c6572636f6e7761792e636f6d2f696d616765732f676f6c616e672d776861742e676966" width="300" data-canonical-src="https://little.kylerconway.com/images/golang-what.gif" style="max-width:100%;"></a><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/c1c93f9eb67d41cd3ab567824405631bbec58b7d9ea37496a485cb3b3a71d5a2/68747470733a2f2f696e74726f2e727573746272696467652e636f6d2f696d672f6665727269732e676966"><img src="https://camo.githubusercontent.com/c1c93f9eb67d41cd3ab567824405631bbec58b7d9ea37496a485cb3b3a71d5a2/68747470733a2f2f696e74726f2e727573746272696467652e636f6d2f696d672f6665727269732e676966" width="300" data-canonical-src="https://intro.rustbridge.com/img/ferris.gif" style="max-width:100%;"></a>
