@@ -19,6 +19,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 - 📱  I am currently working on an **App**
+- 👨🏻‍🏫 I am Looking for **Internships**
 - 🔥  Future goal **Candidate Master**
 - 💬 Ask me about **Programming**
 - 📝 I write articles on [brainstation](https://brainstation10.blogspot.com/)
