@@ -137,7 +137,8 @@
 
 <h3 align="left">Contributions: </h3>
 <img src="https://activity-graph.herokuapp.com/graph?username=Anikcb&amp;theme=react-dark&amp;hide_border=true&amp;area=true" style="max-width:100%;">
-
+<br>
+<img src="https://raw.githubusercontent.com/Anikcb/Anikcb/3255a1b374b698bf842f5f7788bd22cdc9046166/profile_data/github-user-contribution.svg" alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑" style="max-width:100%;">
 
 
 <p align="center">
