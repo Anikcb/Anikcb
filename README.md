@@ -22,8 +22,8 @@
 - 👨🏻‍🏫 I am Looking for **Internships**
 - 🔥  Future goal **Data Scientist**
 - 💬 Ask me about **Programming**
-- 📝 I write articles on [brainstation](https://brainstation10.blogspot.com/)
-- 📷 I make videos on [youtube](https://www.youtube.com/channel/UCJcScWVF3x1CLEg-XpvCXVw)
+- 📝 I write articles on [brain Station 404!](https://brainstation10.blogspot.com/)
+- 📷 I make videos on [Youtube](https://www.youtube.com/channel/UCJcScWVF3x1CLEg-XpvCXVw)
 
 - ⚡ Fun fact **Love to learn , Think , Implement**
 
