@@ -139,7 +139,7 @@
 <h3 align="left">Contributions: </h3>
 <img src="https://activity-graph.herokuapp.com/graph?username=Anikcb&amp;theme=react-dark&amp;hide_border=true&amp;area=true" style="max-width:100%;">
 <br>
-<img src="https://raw.githubusercontent.com/Anikcb/Anikcb/3255a1b374b698bf842f5f7788bd22cdc9046166/profile_data/github-user-contribution.svg" alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑" style="max-width:100%;">
+<img src="https://raw.githubusercontent.com/Anikcb/Anikcb/1ca16fe201803bfd54350a82c30e3f82b84ac5b1/profile_data/snake1.svg" alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑" style="max-width:100%;">
 
 
 <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anikcb&amp;theme=solarized_dark" style="max-width:100%;"> -->
