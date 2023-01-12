@@ -20,7 +20,7 @@
 - 🌱 I’m currently learning **Machine Learning**
 - 🤖  I am currently working on a **Robot**
 - 👨🏻‍🏫 I am Looking for **Internships**
-- 🔥  Future goal **Data Scientist**
+- 🔥  Future goal **Software Engineer**
 - 💬 Ask me about **Programming**
 - 📝 I write articles on [brain Station 404!](https://brainstation10.blogspot.com/)
 - 📷 I make videos on [Youtube](https://www.youtube.com/channel/UCJcScWVF3x1CLEg-XpvCXVw)
