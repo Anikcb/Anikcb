@@ -54,7 +54,7 @@
  <br>
  
  <h3 align="left">Language, Framework and Topics:  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Cat_Laptop_-_Idil_Keysan_-_Wikimedia_Giphy_stickers_2019.gif/1200px-Cat_Laptop_-_Idil_Keysan_-_Wikimedia_Giphy_stickers_2019.gif" height="59px" style="max-width:100%;"></h3>
- <img align="center" src="https://github.com/Anikcb/Anikcb/blob/main/language1.png?raw=true" />
+ <img align="center" src="https://github.com/Anikcb/Anikcb/blob/main/profile_data/language2.png?raw=true" />
   
 </p>
 </br>
