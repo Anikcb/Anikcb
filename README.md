@@ -17,14 +17,13 @@
 
 <p align="left"> <a href="https://twitter.com/anik33122906" target="blank"><img src="https://img.shields.io/twitter/follow/anik33122906?logo=twitter&style=for-the-badge" alt="anik33122906" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
-- 🤖  I am currently working on a **Robot**
+- 🌱 I’m currently learning **Deep Learning**
+- 🤖  I am currently working on a **Project**
 - 👨🏻‍🏫 I am Looking for **Internships**
 - 🔥  Future goal **Software Engineer**
 - 💬 Ask me about **Programming**
 - 📝 I write articles on [brain Station 404!](https://brainstation10.blogspot.com/)
 - 📷 I make videos on [Youtube](https://www.youtube.com/channel/UCJcScWVF3x1CLEg-XpvCXVw)
-
 - ⚡ Fun fact **Love to learn , Think , Implement**
 
 </br>
