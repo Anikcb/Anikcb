@@ -130,14 +130,14 @@
 
 <h3 align="left">Statistics: </h3>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anikcb&show_icons=true&theme=tokyonight" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=anikcb&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=anikcb&theme=tokyonight" />
  
 </p>
 <br>
 
 <h3 align="left">Contributions: </h3>
-<img src="https://activity-graph.herokuapp.com/graph?username=Anikcb&amp;theme=react-dark&amp;hide_border=true&amp;area=true" style="max-width:100%;">
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=Anikcb&amp;theme=react-dark&amp;hide_border=true&amp;area=true" style="max-width:100%;"> -->
 <br>
 <img src="https://raw.githubusercontent.com/Anikcb/Anikcb/4a60f4c9266d97748675c08ab12a54bab5dbf688/profile_data/snake2.svg">
 
