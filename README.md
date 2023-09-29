@@ -62,18 +62,18 @@
 <h3 align="left">Online judge ID's:</h3>
 <p align="left">
 
- <a href="https://www.hackerearth.com/@anik27"><img alt="Custom badge" src="https://img.shields.io/badge/Hacker%20Earth-27-yellowgreen" height="30px" ></a>
+ <a href="https://www.hackerearth.com/@anik27"><img alt="Custom badge" src="https://img.shields.io/badge/Hacker%20Earth-10-yellowgreen" height="30px" ></a>
     <a href="https://www.topcoder.com/members/Anikchakraborty"><img alt="Custom badge" src="https://img.shields.io/badge/Top%20Coder-10-blue" height="30px" ></a>
     <a href="https://www.urionlinejudge.com.br/judge/en/profile/251274"><img alt="Custom badge" src="https://img.shields.io/badge/URI-47-lightgrey" height="30px" ></a>
-    <a href="https://leetcode.com/Dark_Rider_00/"><img alt="Custom badge" src="https://img.shields.io/badge/LeetCode-10-red" height="30px" ></a></br>
- <a href="https://codeforces.com/profile/_Dark_Rider_"><img alt="Custom badge" src="https://img.shields.io/badge/Codeforces-2094-blue" height="30px" ></a>
+    <a href="https://leetcode.com/Dark_Rider_00/"><img alt="Custom badge" src="https://img.shields.io/badge/LeetCode-177-red" height="30px" ></a></br>
+ <a href="https://codeforces.com/profile/_Dark_Rider_"><img alt="Custom badge" src="https://img.shields.io/badge/Codeforces-2259-blue" height="30px" ></a>
  <a href="https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=15"><img alt="Custom badge" src="https://img.shields.io/badge/UVA-164-blue" height="30px" ></a>
-    <a href="https://toph.co/u/ihavedone"><img alt="Custom badge" src="https://img.shields.io/badge/Toph-125-yellow" height="30px" ></a>
+    <a href="https://toph.co/u/ihavedone"><img alt="Custom badge" src="https://img.shields.io/badge/Toph-134-yellow" height="30px" ></a>
     <a href="https://www.e-olymp.com/en/users/DarkRider"><img alt="Custom badge" src="https://img.shields.io/badge/e--olymp-11-red" height="30px" ></a></br>
-    <a href="https://cses.fi/user/8366"><img alt="Custom badge" src="https://img.shields.io/badge/CSES-4-blue" height="30px" ></a>
-    <a href="https://lightoj.com/user/anikchakrabo_"><img alt="Custom badge" src="https://img.shields.io/badge/LightOj-64-brightgreen" height="30px" ></a>
-    <a href="https://www.spoj.com/myaccount/"><img alt="Custom badge" src="https://img.shields.io/badge/SPOJ-77-red" height="30px" ></a>
-    <a href="https://www.codechef.com/users/anik121"><img alt="Custom badge" src="https://img.shields.io/badge/CodeChef-54-orange" height="30px" ></a></br>
+    <a href="https://cses.fi/user/8366"><img alt="Custom badge" src="https://img.shields.io/badge/CSES-59-blue" height="30px" ></a>
+    <a href="https://lightoj.com/user/anikchakrabo"><img alt="Custom badge" src="https://img.shields.io/badge/LightOj-90-brightgreen" height="30px" ></a>
+    <a href="https://www.spoj.com/myaccount/"><img alt="Custom badge" src="https://img.shields.io/badge/SPOJ-104-red" height="30px" ></a>
+    <a href="https://www.codechef.com/users/anik121"><img alt="Custom badge" src="https://img.shields.io/badge/CodeChef-91-orange" height="30px" ></a></br>
     <a href="https://projecteuler.net/progress"><img alt="Custom badge" src="https://img.shields.io/badge/Project%20Euler-18-yellow" height="30px" ></a>
     <a href="https://www.hackerrank.com/anikchakraborty4"><img alt="Custom badge" src="https://img.shields.io/badge/HackerRank-40-yellowgreen" height="30px" ></a>
  <br>
