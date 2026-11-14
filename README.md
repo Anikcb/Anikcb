@@ -1,14 +1,4 @@
 
-
-<p align="center" >
- 
-  <img height=150px src="https://raw.githubusercontent.com/BhuvaneshHingal/BhuvaneshHingal/master/icon/Olaf.gif" />
-  
- </p>
- <img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&color=5F9A80&size=40&center=true&vCenter=true&width=900&height=70&lines=Hi%2C+I'm+Anik;A+passionate+competitive+programmer;Student%2C+Blogger%2C+Web+Developer;Android+Developer%2C+Machine+Learning+Engineer;Where+there+is+Code%2C+There+is+Life;I+believe%2C+It's+never+over+till+it's+over." />
-  </p>
- 
- 
  <h1></h1>
 
 <img align="right" width="500" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" alt="Coding">
@@ -17,11 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/anik33122906" target="blank"><img src="https://img.shields.io/twitter/follow/anik33122906?logo=twitter&style=for-the-badge" alt="anik33122906" /></a> </p>
 
-- 🌱 I’m currently learning **Deep Learning**
-- 🤖  I am currently working on a **Project**
-<!-- - 👨🏻‍🏫 I am Looking for **Internships** -->
-<!-- - 🔥  Future goal **Software Engineer** -->
-- 💬 Ask me about **Programming**
+- 💬 Ask me about **Data Science/AI/Web Development**
 - 📝 I write articles on [brain Station 404!](https://brainstation10.blogspot.com/)
 - 📷 I make videos on [Youtube](https://www.youtube.com/channel/UCJcScWVF3x1CLEg-XpvCXVw)
 
@@ -30,28 +16,6 @@
 </br>
 </br>
 <h1></h1>
-<a href="https://anikcb.github.io/"> <p align="right"><img src="https://github.com/Anikcb/Anikcb/blob/main/port-2.jpg?raw=true" /></p></a>
-
-
-
-<h3 align="left">Connect with me:<img align="center" src="https://github.com/CyberBoyAyush/CyberBoyAyush/raw/master/gifs/Handshake.gif" height="45px" style="max-width:100%;"></h3>
-<p align="left">
- <a href="https://twitter.com/Anik33122906" rel="nofollow"><img src="https://github.com/Anikcb/Anikcb/blob/main/profile_data/icon12.png?raw=true" data-canonical-src="https://img.icons8.com/clouds/90/4a90e2/twitter.png" style="max-width:100%;"></a>
-<a href="https://instagram.com/__.anik._" rel="nofollow"><img src="https://github.com/Anikcb/Anikcb/blob/main/profile_data/icon11.png?raw=true" data-canonical-src="https://img.icons8.com/clouds/90/4a90e2/instagram-new--v2.png" style="max-width:100%;"></a>
-<a href="https://linkedin.com/in/anik-chakraborty-b16243208" rel="nofollow"><img src="https://github.com/Anikcb/Anikcb/blob/main/profile_data/icon10.png?raw=true" data-canonical-src="https://img.icons8.com/clouds/90/4a90e2/linkedin.png" style="max-width:100%;"></a>
-<a href="anikchakraborty562@gmail.com"><img src="https://github.com/Anikcb/Anikcb/blob/main/profile_data/icon9.png?raw=true" data-canonical-src="https://img.icons8.com/clouds/90/4a90e2/gmail.png" style="max-width:100%;"></a>
-<a href="https://www.facebook.com/profile.php?id=100030484703065" rel="nofollow"><img src="https://github.com/Anikcb/Anikcb/blob/main/profile_data/icon8.png?raw=true" data-canonical-src="https://img.icons8.com/clouds/90/000000/facebook-new.png" style="max-width:100%;"></a>
-<a href="https://app.rocketseat.com.br/me/anik-chakraborty-07956" rel="nofollow"><img src="https://github.com/Anikcb/Anikcb/blob/main/profile_data/icon7.png?raw=true" data-canonical-src="https://img.icons8.com/clouds/90/4a90e2/rocket.png" style="max-width:100%;"></a>
-<a href="https://t.me/anik01010" rel="nofollow"><img src="https://github.com/Anikcb/Anikcb/blob/main/profile_data/icon6.png?raw=true" data-canonical-src="https://img.icons8.com/clouds/90/000000/telegram-app.png" style="max-width:100%;"></a>
-<a href="https://api.whatsapp.com/send?phone=01761951604" rel="nofollow"><img src="https://github.com/Anikcb/Anikcb/blob/main/profile_data/icon5.png?raw=true" data-canonical-src="https://img.icons8.com/clouds/90/000000/whatsapp.png" style="max-width:100%;"></a>
-<a href="https://www.youtube.com/channel/UCJcScWVF3x1CLEg-XpvCXVw" target="blank"><img src="https://i.pinimg.com/originals/d4/1c/c6/d41cc6d360aeb4d4ea3f61a6c894aaa8.png" alt="https://www.facebook.com/profile.php?id=100030484703065" height="95"/></a>
-<a href="https://www.pinterest.com/anikchakraborty562/_saved/" target="blank"><img src="https://img.icons8.com/clouds/2x/pinterest.png" alt="https://www.youtube.com/channel/UCJcScWVF3x1CLEg-XpvCXVw" height="95"/></a>
-<a href="https://www.quora.com/profile/Anik-Chakraborty-47" target="blank"><img src="https://img.icons8.com/clouds/2x/quora.png" alt="https://www.facebook.com/profile.php?id=100030484703065" height="95"/></a>
-<a href="https://stackoverflow.com/users/16171263/anik-chakraborty?tab=profile" target="blank"><img src="https://i.pinimg.com/originals/82/c0/4f/82c04f311cbdae05b5c729b9ff6ab588.png" height="95"/></a>
-
- 
- <br>
- <br>
  
  <h3 align="left">Language, Framework and Topics:  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Cat_Laptop_-_Idil_Keysan_-_Wikimedia_Giphy_stickers_2019.gif/1200px-Cat_Laptop_-_Idil_Keysan_-_Wikimedia_Giphy_stickers_2019.gif" height="59px" style="max-width:100%;"></h3>
  <img align="center" src="https://github.com/Anikcb/Anikcb/blob/main/profile_data/language2.png?raw=true" />
@@ -118,36 +82,6 @@
 <h1></h1>
 
 <p align="center">
-  <img height=230px src="https://i.pinimg.com/564x/28/f2/76/28f2765e35060ace8830174479e60976.jpg" /> 
- <img height=200px src=https://github-readme-stats.vercel.app/api/top-langs/?username=anikcb&hide_title=true&hide_border=true&layout=compact&langs_count=10&theme=tokyonight>
-</P>
-<p align="center">
  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/ece04e9e6d8e7370a88024f41d544915e01ce71b5457326c08349cc282ccf2d4/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6c6e377a32655772696951416c6c6656636e2f323030772e77656270"><img src="https://github.com/Anikcb/Anikcb/blob/main/profile_data/l_1.webp?raw=true" width="100" data-canonical-src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" style="max-width:100%;"></a><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/a3ccfae79c559d3ff0c7ece89882c93bf278d01f0d2a1d908e19497630dca49d/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c4d7439363338644f38646674416a74636f2f3230302e77656270"><img src="https://github.com/Anikcb/Anikcb/blob/main/profile_data/l_2.webp?raw=true" width="100" data-canonical-src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" style="max-width:100%;"></a><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/cda2bff49eb0cd388393e08dd91cc3cf461f095e387d3fdcb8648ab0418010aa/68747470733a2f2f692e67697068792e636f6d2f6d656469612f654e41736a4f353574506267616f72376d612f323030772e77656270"><img src="https://github.com/Anikcb/Anikcb/blob/main/profile_data/l_3.webp?raw=true" width="100" data-canonical-src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" style="max-width:100%;"></a><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/0cad3f969b0946abd0e5f16e9ed1ff78a2495a40c2bb5c6414aefd4be76505aa/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4b7a4a6b7a6a676766474e355079366e6b542f3230302e77656270"><img src="https://github.com/Anikcb/Anikcb/blob/main/profile_data/l_5.webp?raw=true" width="100" data-canonical-src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" style="max-width:100%;"></a><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/4d67389739aa53e876a878719fa61eeebea468ae0be6af71903fa8c4c9b72018/68747470733a2f2f692e67697068792e636f6d2f6d656469612f49647941514a564e326b56504e55726f6a4d2f3230302e77656270"><img src="https://github.com/Anikcb/Anikcb/blob/main/profile_data/l_4.webp?raw=true" width="100" data-canonical-src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" style="max-width:100%;"></a><br><br>
  </p>
 <br>
-
-<h1></h1>
-
-<h3 align="left">Statistics: </h3>
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=anikcb&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=anikcb&theme=tokyonight" />
- 
-</p>
-<br>
-
-<h3 align="left">Contributions: </h3>
-<!-- <img src="https://activity-graph.herokuapp.com/graph?username=Anikcb&amp;theme=react-dark&amp;hide_border=true&amp;area=true" style="max-width:100%;"> -->
-<br>
-<img src="https://raw.githubusercontent.com/Anikcb/Anikcb/4a60f4c9266d97748675c08ab12a54bab5dbf688/profile_data/snake2.svg">
-
-
-<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anikcb&amp;theme=solarized_dark" style="max-width:100%;"> -->
-
-
-<p align="center">
-<br><br>
-  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/c1c93f9eb67d41cd3ab567824405631bbec58b7d9ea37496a485cb3b3a71d5a2/68747470733a2f2f696e74726f2e727573746272696467652e636f6d2f696d672f6665727269732e676966"><img src="https://github.com/Anikcb/Anikcb/blob/main/profile_data/l_6.gif?raw=true" width="300" data-canonical-src="https://intro.rustbridge.com/img/ferris.gif" style="max-width:100%;"></a>
-</p>
-
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" style="max-width:100%;">
